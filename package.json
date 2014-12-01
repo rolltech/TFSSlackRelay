@@ -11,11 +11,6 @@
   "author": "Rick Duggan <rick.duggan@gmail.com>",
   "main": "app.js",
   "scripts": { "start": "node app.js" },
-  "dependencies": {
-    "restify": ">=2.8.2",
-    "requestify": ">=0.1.16",
-    "forever": ">=0.11.1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/rickduggan/TFSSlackRelay.git"
