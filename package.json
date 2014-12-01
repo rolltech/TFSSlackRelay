@@ -10,7 +10,7 @@
   ],
   "author": "Rick Duggan <rick.duggan@gmail.com>",
   "main": "app.js",
-  "scripts": { "start": "forever start relay.js", "stop": "forever stop relay.js" },
+  "scripts": { "start": "node relay.js" },
   "dependencies": {
     "restify": ">=2.8.2",
     "requestify": ">=0.1.16",
