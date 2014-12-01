@@ -9,7 +9,7 @@
     "integrations"
   ],
   "author": "Rick Duggan <rick.duggan@gmail.com>",
-  "main": "relay.js",
+  "main": "app.js",
   "scripts": { "start": "forever start relay.js", "stop": "forever stop relay.js" },
   "dependencies": {
     "restify": ">=2.8.2",
